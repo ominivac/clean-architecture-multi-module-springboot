@@ -33,7 +33,7 @@
 
 > Multi-module project developed in Java showcasing an example of the [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), intended solely for educational purposes. Built using Gradle.
 
-## Tecnologies
+## Technologies
 - Java 17
 - Spring Boot 3.2.2
     - spring-boot-starter-web

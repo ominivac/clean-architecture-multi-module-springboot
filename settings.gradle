@@ -1,4 +1,4 @@
 rootProject.name = 'multi-module.clean-architecture'
 include 'core'
 include 'application'
-
+include 'infra:api'
